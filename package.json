@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio26-07",
+  "version": "1.0.0",
+  "description": "Repo para ejercicio de la clase del mar 26/07",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaquinAq/Ejercicio26-07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaquinAq/Ejercicio26-07/issues"
+  },
+  "homepage": "https://github.com/JoaquinAq/Ejercicio26-07#readme"
+}
